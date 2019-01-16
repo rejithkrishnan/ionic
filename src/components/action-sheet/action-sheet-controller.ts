@@ -91,7 +91,7 @@ import { Config } from '../../config/config';
  * |----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------|
  * | text     | `string` | The buttons text.                                                                                                                                |
  * | icon     | `icon`   | The buttons icons.                                                                                                                               |
- * | handler  | `any`    | An express the button should evaluate.                                                                                                           |
+ * | handler  | `any`    | An expression the button should evaluate.                                                                                                           |
  * | cssClass | `string` | Additional classes for custom styles, separated by spaces.                                                                                       |
  * | role     | `string` | How the button should be displayed, `destructive` or `cancel`. If no role is provided, it will display the button without any additional styles. |
  *
